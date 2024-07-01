@@ -1,0 +1,18 @@
+{
+  "name": "renkaiscli",
+  "version": "1.0.0",
+  "description": "renkai's quick start cli",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "renkaiscli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
